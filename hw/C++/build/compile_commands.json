@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/hw/C++/build",
+  "command": "C:/Users/18781/scoop/apps/mingw/current/bin/c++.exe   -g -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.obj -c D:/hw/C++/main.cpp",
+  "file": "D:/hw/C++/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]
